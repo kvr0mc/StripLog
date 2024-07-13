@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:load"
+        "strip_log:load"
     ],
     "replace":false
 }

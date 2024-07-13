@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:tick"
+        "strip_log:tick"
     ],
     "replace":false
 }

@@ -1,3 +1,3 @@
-# DatapackTemplate
+# Strip Log
 
-Datapack template for Minecraft 1.21
+Strip Log Control for Minecraft 1.21
