@@ -1,6 +1,6 @@
 {
     "values":[
-        "strip_log:tick"
+        "strip_log:core/tick"
     ],
     "replace":false
 }

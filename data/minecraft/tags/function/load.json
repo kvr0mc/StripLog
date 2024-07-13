@@ -1,6 +1,6 @@
 {
     "values":[
-        "strip_log:load"
+        "strip_log:core/load"
     ],
     "replace":false
 }
